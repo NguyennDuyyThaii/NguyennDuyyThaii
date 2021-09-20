@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NguyennDuyyThaii
 - 👀 I’m interested in learn new things
 - 🌱 I’m currently learning nodeJS framework like NestJS and expressJs, socketIo, peerJs, angular 11, vueJs, MongoDB, PostgresSQL ...
-- 💞️ I think A Frightended Head Has Not Enought Space For Dreams
+- 💞️ I think A Frightened Head Has Not Enough Space For Dreams
 - 📫 How to reach me ...
 
 <!---
