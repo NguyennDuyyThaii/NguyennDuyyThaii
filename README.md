@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NguyennDuyyThaii
 - 👀 I’m interested in learn new things
-- 🌱 I’m currently learning nodeJS framework like NestJS and expressJs, socketIo, peerJs, angular 11, vueJs, MongoDB, PostgresSQL ...
+- 🌱 I’m currently working with nodeJS framework like NestJS and expressJs and many technologies depending on the projects
 - 💞️ I think A Frightened Head Has Not Enough Space For Dreams
 - 📫 How to reach me ...
 
